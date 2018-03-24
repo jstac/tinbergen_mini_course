@@ -4,9 +4,10 @@
 
 
 * Primary instructor: John Stachurski
-* Assistant instructure: Natasha Watkins
+* Assistant instructor: Natasha Watkins
 * Dates: 4th--7th June
-* Times and location: TBA
+* Class times: 9am--12 noon
+* Location: TBA
 
 
 ### Summary

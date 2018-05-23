@@ -1,6 +1,6 @@
 # Computational Economics with Python
 
-## Graduate Mini Course at Tilbergen Institute
+## Graduate Mini Course at Tinbergen Institute
 
 
 * Primary instructor: John Stachurski

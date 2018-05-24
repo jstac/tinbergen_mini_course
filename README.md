@@ -9,6 +9,7 @@
 * Class times: 9am--12 noon
 * Location: TBA
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jstac/tinbergen_mini_course.git/master)
 
 ### Summary
 

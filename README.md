@@ -37,19 +37,21 @@ No Python knowledge is assumed.
 * [Numba](http://numba.pydata.org/) and other JIT compilers
 * Parallelization
 * Distributed and cloud computing
+* Application I: Inventory dynamics
+
 
 #### Day 3
 
-* Applications in economic and financial modeling 
+* Application II: Inequality and distributions
+* Application III: Job search
+* Application IV: Optimal savings 
 
-    * asset pricing 
-    * optimal savings 
-    * optimal stopping
 
 #### Day 4
 
 * The [pandas](https://pandas.pydata.org/) data analysis library
-* Applications with data
+* Working with data
+* Some empirical applications
 
 
 

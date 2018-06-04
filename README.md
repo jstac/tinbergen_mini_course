@@ -6,8 +6,8 @@
 * Primary instructor: John Stachurski
 * Assistant instructor: Natasha Watkins
 * Dates: 4th--7th June
-* Class times: 9am--12 noon
-* Location: TBA
+* Class times: 9:30 am--12 noon
+
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jstac/tinbergen_mini_course.git/master)
 
